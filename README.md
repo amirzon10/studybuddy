@@ -1,0 +1,2 @@
+# studybuddy
+student tips page
